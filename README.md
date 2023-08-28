@@ -1,16 +1,39 @@
 ### Hi there 👋
+<!DOCTYPE html>
+<html>
 
-<!--
-**ybpranav/ybpranav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+    <meta charset="utf-8">
+    <title>module2-solution</title>
+</head>
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
-Here are some ideas to get you started:
+<body>
+    <h1>Our Menu</h1>
+    <section class="column-lg-4 colmn-md-6 colmn-sm-12">
+        <div>
+            <p class="sub1">Chicken</p>
+            <p class="content">
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+            </p>
+        </div>
+    </section>
+    <section class="column-lg-4 colmn-md-6 colmn-sm-12">
+        <div>
+            <p class="sub2">Beef</p>
+            <p class="content">
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+        </div>
+    </section>
+    <section class="column-lg-4 colmn-md-12 colmn-sm-12">
+        <div>
+            <p class="sub3">Sushi</p>
+            <p class="content">
+                Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+            </p>
+        </div>
+</body>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</html>
+
+
