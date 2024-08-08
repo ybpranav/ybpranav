@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>module2-solution</title>
+    <title>I'm Pranav Y B ! I'm a student passionate about learning various technologies. I have experience with C++, Java, C, SQL, and a bit of Python.</title>
 </head>
 <link rel="stylesheet" type="text/css" href="css/style.css">
 
